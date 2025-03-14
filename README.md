@@ -2,6 +2,8 @@
 
 Welcome to the Health Innovation Campus Project Plan Portfolio. This portfolio consolidates all project deliverables as part of a collaborative built environment course project undertaken at the University of Huddersfield.
 
+The portfolio is available in: [`Health Innovation Campus_Project Plan Portfolio.pdf`](https://github.com/UyenChuongNguyen/health-innovation-campus-plan-portfolio/blob/main/Health%20Innovation%20Campus_Project%20Plan%20Portfolio.pdf)
+
 ## Overview
 
 The Health Innovation Campus is a new, sustainable building project located at Dalton Ward, Southgate/Leeds Road, Huddersfield (HD1 1TW). The project is a joint partnership between:
